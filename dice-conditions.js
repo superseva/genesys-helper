@@ -1,5 +1,5 @@
 Hooks.on("init", () => {
-    //paths for images start at your data folder. I have the 'assets' folder in Foundry data folder - next to my 'worlds' and 'systems' folders
+    //paths for the images start at your data folder. I have the 'assets' folder in Foundry data folder - next to my 'worlds' and 'systems' folders
     CONFIG.statusEffects.unshift("assets/genesys/die/b.png");
     CONFIG.statusEffects.unshift("assets/genesys/die/s.png");
     CONFIG.statusEffects.unshift("assets/genesys/die/c.png");
