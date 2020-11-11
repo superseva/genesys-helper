@@ -13,6 +13,6 @@
     "packs": [],
     "languages": [],
     "url": "https://github.com/superseva/genesys-helper",
-    "manifest": "https://raw.githubusercontent.com/superseva/genesys-helper/master/module.json",
+    "manifest": "https://raw.githubusercontent.com/superseva/genesys-helper/main/module.json",
     "download": "https://github.com/superseva/genesys-helper/archive/master.zip"
 }
