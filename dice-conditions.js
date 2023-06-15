@@ -1,4 +1,4 @@
-Hooks.on("setup", () => {
+Hooks.on("init", () => {
     //Add them to the other icons
     CONFIG.statusEffects.unshift("modules/genesys-helper/die/die-blue.webp");
     CONFIG.statusEffects.unshift("modules/genesys-helper/die/die-black.webp");
