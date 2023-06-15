@@ -2,11 +2,15 @@
     "name": "genesys-helper",
     "title": "Genesys Helper",
     "description": "Help with Genesys",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "minimumCoreVersion": "0.7.5",
-    "compatibleCoreVersion": "0.7.6",
-    "author": "HappySteve",
-
+    "compatibleCoreVersion": "10",
+    "compatibility": {
+		"minimum": "10",
+		"verified": "10",
+		"maximum": "11"
+	},
+	"authors":[{"name":"HappySteve"}],
     "esmodules": [],
     "scripts": ["dice-conditions.js"],
     "styles": [],
